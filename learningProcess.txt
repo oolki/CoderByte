@@ -1,0 +1,7 @@
+learningProcess
+
+1. Read the solution to understand what it does. Talk through it, write it out, add notes, annotate.
+2. Run the code to see how it works and what arguments it takes. think about edge cases.
+3. Run the code through the debugger and use different arguments to get familiar with different scenarios
+4. Replicate the function by executing statements in the console.
+5. Goals : write out function without looking at solution
