@@ -10,8 +10,9 @@ function twoSum(arr, S) {
 		for(j = i + 1; j < arr.length; j++) {
 			if(arr[i] + arr[j] === S) {
 				sum.push([arr[i], arr[j]]);
+				
 			}
 		}
-	}
+	}	
 	return sum;
 } 

@@ -1,3 +1,4 @@
+//recursion is when a  function calls upon itself until it doesnt
 function stepCounter(N) {
 	if (N === 1) {return 1}
 	if (N === 2) {return 2}

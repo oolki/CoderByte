@@ -11,3 +11,5 @@ function ABCheck(str) {
 //iterate of the length of the string checking for both 'a' and 'b' 3 characters apart
 //else checking for 'b' and 'a' 3 characters apart, ordering is irrelevant
 //else the test fails and return false. 
+
+console.log(ABCheck("This is Hello World."))
