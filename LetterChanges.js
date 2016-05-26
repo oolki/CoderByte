@@ -1,27 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // function LetterChanges(str) { 
 // 	var converted = str.replace(/[a-z]/gi, function(char) {
 // 		var replaceZ = '';
@@ -31,7 +7,7 @@
 // 			//change char to unicode
 // 			//add one to unicode
 // 			//change unicode to alphabet
-// 		}
+// 		}`
     	
 //     // 	: str.fromCharCode(char.charCodeAt() + 1);
 //     });
